@@ -1,0 +1,8 @@
+All the materials related to the third question are here:
+https://drive.google.com/drive/folders/1JsOvNBHwrfdyz0zZ9XGDOM8B6wj6ZTI-?usp=sharing
+you can find:
+1-The output excels from Hamshahri corpus
+2-Cleaned DF with sentiment analysis done on it
+3-Word cloud output
+4-Presian stop words text file
+5-Google colab notebook
