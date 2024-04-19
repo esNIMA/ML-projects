@@ -9,18 +9,18 @@ This README provides an overview of various projects and homework assignments co
 - Problem 3: Email spam detection.
 - Problem 4: Binary image classification.
 # 6 - Pima Indian Diabetes
-## Full Report Available
+## Full Report Available!
 Second homework of my data mining course focusing on a binary classification problem:
 Includes all preprocessing steps, training, and validation.
 Optimization of K for KNN and Bayesian classification techniques.
 # 5 - Applied ML Homework 2
-## Full Report Available
+## Full Report Available!
 An in-depth exploration of preprocessing steps for tabular, image, and text data:
 - Tabular Data: Utilization of scikit-learn's pipeline class to compare and select preprocessing approaches.
 - Image Data: First-time preprocessing.
 - Text Data: Development of a Hamshahri corpus reader from scratch, text preprocessing with the Hazm library, and sentiment analysis using Polyglot.
 # 4 - Breast Cancer
-## Full Report Available
+## Full Report Available!
 First homework of my data mining course:
 Extensive methods for handling missing values, detecting outliers, and selecting features.
 Evaluation of methods using the accuracy of a neural network algorithm.
